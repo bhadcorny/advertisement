@@ -1,0 +1,85 @@
+.contra{
+    
+    background-color: black;
+    color: white;
+    /* float: right; */
+    /* max-width: 537px; */
+    /* padding-left: 784px; */
+    /* padding-right: 776px; */
+    height: 1700px;
+    width: 100%;
+}
+.get{
+   /* display: inline; */
+   /* float: right; */
+    /* padding-left: 784px; */
+    padding-left: 180px;
+
+}
+
+.shop a{
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 2px solid blue;
+    padding: 5px;
+    background: rgb(231, 181, 15);
+    color: white;
+    border-radius: 42px;
+    float: right;
+    margin-left: 10%;
+}
+.shop a:hover{
+    background: white;
+    color: black;
+}
+.bob a{
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 3px solid blue;
+    padding: 5px;
+    background: rgb(83, 81, 74);
+    color: white;
+    border-radius: 42px;
+    float: right;
+}
+
+.bob a:hover{
+    background: green;
+    color: yellow;
+}
+
+.go{
+    float: right; 
+    width: 50%;
+    padding-left: 60px;
+}
+
+/* .go img{
+    width: 40%;
+} */
+
+
+.come{
+    float:left;
+    width: 40%;
+    margin-bottom: 100px;
+    
+    /* padding-right: 50px; */
+    
+}
+
+.word{
+    width: 13%;
+}
+.hair{
+    padding-left: 175px;
+    padding-bottom: 10%;
+}
+
+.low{
+    float: right; 
+    width: 50%;
+    padding-left: 60px;
+}
+
+    

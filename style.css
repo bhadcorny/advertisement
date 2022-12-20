@@ -1,0 +1,328 @@
+*{
+    box-sizing: border-box; 
+    /* padding: 0; */
+     margin: 0;
+ } 
+
+.clay{
+    color: white;
+    /* margin: 20px; */
+    float: left;
+    margin-left: 5%;
+}
+
+
+
+ul{     
+    list-style-type: none;
+    background-color:black;
+    overflow: hidden;
+    width: 100%;
+    /* text-align: center; */
+    padding: 10px;
+}
+
+.bar{
+    margin-left: 30%;
+}
+
+
+.bar li{
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    margin: 25px;
+    font-size: 15px;
+    
+
+}
+
+li i{
+
+    color: white;
+    margin-left: 50px;
+}
+.users{
+    float: right;
+    margin-right: 5%;
+}
+
+.users li{
+    float: left;
+}
+
+
+.beauty{
+    background-color: black;
+    color: white;
+    max-width: 1402px;
+    padding-bottom: 163px;
+    padding-right: 538px;
+    padding-top: 55px;
+}
+.intro{
+    color: rgb(209, 209, 46);
+    margin-left: 20%;
+}
+
+.move{
+    margin-left: 20%;
+}
+
+
+.st{
+    float: right;
+    width: 44px;
+}
+.float{
+    display: inline;
+    float: right;
+    width: 265px;
+    margin-right: 15%;
+}
+
+
+
+.float a{
+    text-decoration: none;
+    color: white;
+    margin-right: 15%;
+}
+
+.Start a{
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 2px solid blue;
+    padding: 5px;
+    background: rgb(231, 181, 15);
+    color: white;
+    border-radius: 42px;
+    margin-left: 20%;
+}
+.Start a:hover{
+    background: white;
+    color: black;
+}
+.access{
+    padding: 15px;
+}
+.access i{
+    border: 2px solid rgb(192, 192, 31);
+    background-color: rgb(192, 192, 31);
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.easy{
+    float: right;
+    padding-right: 100px;
+}
+.snack{
+    float: right;
+    padding-right: 200px;
+}
+
+.book{
+    float: right;
+    padding-right: 200px;
+}
+.history{
+    background-color: black;
+    color: white;
+    height: 300px;
+    /* padding-bottom: 440px;
+    padding-right: 557px; */
+    padding-top: 26px;
+} 
+
+
+.our img{
+    float:left;
+    margin-left: 10%;
+}
+
+.img{
+    font-size: 30px;
+    max-width: 996px;
+    padding-top: 40px;;
+}
+
+
+.who{
+    font-size: 40px;
+    padding-left: 485px;
+}
+.s2{
+    float: right;
+}
+.s4{
+    float:right;
+}
+
+.the{
+    float: left;
+    margin-left: 112px;
+}
+
+.spa{
+    float: right;
+}
+
+.gallery{
+  background-color: black;
+    max-width: 1070px;
+    color: white;
+    padding-bottom: 348px;
+    padding-top: 15px;
+}
+
+.body{
+    float :left;
+}
+.bad{
+    background-color: black;
+}
+.ash{
+    color: white;
+}
+
+.get{
+    float: right;
+}
+
+.style{
+    padding-top: 5%;
+    font-size: 20px;
+    padding-left: 200px;
+}
+.fred{
+    float: left;
+    font-size: 15px;
+}
+.lang{
+    margin-left: 45%;
+}
+@media(max-width:768px){
+    .clay{
+        color: white;
+        /* margin: 20px; */
+        float: left;
+        margin-left: unset;
+        width: 100%;
+    }
+    
+    ul{     
+        list-style-type: none;
+        background-color:black;
+        overflow: hidden;
+        width: 100%;
+        /* text-align: center; */
+        padding: 10px;
+        margin: unset;
+    }
+    .beauty{
+        padding: 11%;
+        margin: unset;
+    }
+    .easy{
+        padding-right: unset;
+        float: none;
+    }
+.snack{
+    float: none;
+}
+.book{
+    float: none;
+}
+.comfort{
+    float: none;
+}
+.low{
+    float: none;
+    
+    margin-left: unset;
+    width: 50%;
+}
+}
+.contra{
+    width: 100%;
+}
+
+
+
+
+    
+
+}
+
+@media(max-width:420px){
+    .pic{
+        width: 100%;
+        margin: unset;
+    }
+    ul{
+        width: 100%;
+    }
+}
+    @media(max-width:375px){
+        .clay{
+            color: white;float: left;
+            margin-left: unset;
+            width: 100%;
+        }
+        
+        ul{     
+            list-style-type: none;
+            background-color:black;
+            overflow: hidden;
+            width: 100%;
+            /* text-align: center; */
+            padding: 10px;
+            margin: unset;
+        }
+        .beauty{
+            padding: 11%;
+            margin: unset;
+        }
+        .easy{
+            padding-right: unset;
+            float: none;
+        }
+    .snack{
+        float: none;
+    }
+    .book{
+        float: none;
+    }
+    .comfort{
+        float: none;
+    }
+
+    .go{
+        clear: both;
+        background-color: black;
+    }
+    .low{
+        float: none;
+        
+        margin-left: unset;
+        width: 50%;
+    }
+
+    .hair{
+        padding-left: 0px;
+    padding-bottom: 22%;
+    background-color: black;
+    }
+    }
+    .contra{
+        width: 100%;
+    }
+    
+    
+    
+        
+    }
